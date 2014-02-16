@@ -1,4 +1,13 @@
-qiniudemo
-=========
+Ueditor结合七牛云存储上传图片、附件和图片在线管理的实现
 
-ueditor qiniu integration demo
+多图片上传
+
+上传图片
+
+同名文件覆盖
+
+图片在线管理
+
+多附件上传
+
+附件上传
